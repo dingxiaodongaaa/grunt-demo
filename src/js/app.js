@@ -1,0 +1,1 @@
+const aaa = option => console.log(options) 

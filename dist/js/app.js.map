@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/app.js"],"names":["aaa","option","console","log","options"],"mappings":";;AAAA,IAAMA,GAAG,GAAG,SAANA,GAAM,CAAAC,MAAM;AAAA,SAAIC,OAAO,CAACC,GAAR,CAAYC,OAAZ,CAAJ;AAAA,CAAlB","sourcesContent":["const aaa = option => console.log(options) "],"file":"app.js"}
